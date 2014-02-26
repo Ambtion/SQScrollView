@@ -16,7 +16,7 @@
 
 - (void)imageViewScale:(ScaleImageView *)imageScale clickCurImage:(UIImageView *)imageview
 {
-
+    
 }
 - (void)setImageViewthumbImage:(ScaleImageView *)scaleView withAsset:(id)asset
 {
